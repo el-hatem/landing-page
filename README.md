@@ -3,7 +3,7 @@
 
 # FWD project landing page
 
-anding page is a theme  to create landing pages for fwd first project. This theme is based on Udacity frontend nanodegree project.
+landing page is a theme  to create landing pages for fwd first project. This theme is based on Udacity frontend nanodegree project.
 
 # Demo
 A demo can be find here [fwd-landing-page](https://el-hatem.github.io/landing-page/)
